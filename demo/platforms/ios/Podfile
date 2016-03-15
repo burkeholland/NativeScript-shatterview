@@ -1,0 +1,4 @@
+# Begin Podfile - /Users/burkeholland/dev/burkeholland/NativeScript-shatterview/demo/node_modules/nativescript-shatterview/platforms/ios/Podfile 
+ use_frameworks!
+pod 'StarWars', :path => '~/dev/burkeholland/StarWars.iOS' 
+ # End Podfile 

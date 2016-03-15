@@ -1,0 +1,2 @@
+use_frameworks!
+pod 'StarWars', :path => '~/dev/burkeholland/StarWars.iOS'

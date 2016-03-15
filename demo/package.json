@@ -1,12 +1,15 @@
 {
-	"nativescript": {
-		"id": "org.nativescript.shatterview",
-		"tns-android": {
-			"version": "1.6.0"
-		}
-	},
-	"dependencies": {
-		"nativescript-shatterview": "file:..",
-		"tns-core-modules": "latest"
-	}
+  "nativescript": {
+    "id": "org.nativescript.shatterview",
+    "tns-android": {
+      "version": "1.6.0"
+    },
+    "tns-ios": {
+      "version": "1.6.0"
+    }
+  },
+  "dependencies": {
+    "nativescript-shatterview": "file:..",
+    "tns-core-modules": "latest"
+  }
 }

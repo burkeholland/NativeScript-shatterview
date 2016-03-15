@@ -1,0 +1,20 @@
+<page xmlns="http://schemas.nativescript.org/tns.xsd"
+      xmlns:sw="nativescript-shatterview"
+      loaded="pageLoaded">
+    
+    <scroll-view>
+        <stack-layout>
+
+            <!--<Placeholder creatingView="createImage" />-->
+
+            <sw:ShatterView id="shatterView" margin="10" tap="goAway">
+                <!--<Placeholder creatingView="createImage" />-->
+                <Image src="~/images/bvs.jpg" stretch="aspectFit" height="300" />
+            </sw:ShatterView>
+            
+        
+    </stack-layout>
+        
+    </scroll-view>
+
+</page>
